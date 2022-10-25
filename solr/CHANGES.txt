@@ -15,6 +15,10 @@ Bug Fixes
 
 * SOLR-16264: Set versions for all Antora build tools (Houston Putman)
 
+Build
+---------------------
+* SOLR-16476: Remove commons-text dependency from solr-core (Kevin Risden)
+
 ==================  9.0.0 ==================
 
 New Features
